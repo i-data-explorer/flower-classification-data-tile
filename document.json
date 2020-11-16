@@ -18,6 +18,9 @@
     ],
     "Categories": [
       "Environment"
+    ],
+    "Catalog Id": [
+      "flower_classification_dataset"
     ]
   }
 }
