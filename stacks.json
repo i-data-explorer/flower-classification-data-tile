@@ -1,0 +1,15 @@
+{
+  "title": "Flower Classifications",
+  "description": "Dataset for flower classifications",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Dataset"],
+  "tag": ["CSV"],
+  "de_catalog_id": "flower_classification_dataset",
+  "categories": [
+    "Health"
+  ],
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes",
+}

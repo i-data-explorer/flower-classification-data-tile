@@ -1,0 +1,23 @@
+{
+  "name": "Flower Classifications",
+  "description": "Dataset for flower classifications",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "de_catalog_id": "flower_classification_dataset",
+  "source_repo": "https://github.com/i-data-explorer/flower-calssification-dataset.git",
+  "cover": "cover.md",
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset"
+    ],
+    "Tag": [
+      "CSV"
+    ],
+    "Categories": [
+      "Environment"
+    ]
+  },
+}
