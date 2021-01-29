@@ -11,3 +11,5 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 |4.7	|3.2	|1.3	|0.2	|Iris-setosa|
 |4.6	|3.1	|1.5	|0.2	|Iris-setosa|
 |5.0	|3.6	|1.4	|0.2	|Iris-setosa|
+
+Reference : https://archive.ics.uci.edu/ml/datasets/iris
