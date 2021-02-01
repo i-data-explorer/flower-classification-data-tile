@@ -1,7 +1,7 @@
 {
   "name": "Flower Classification Data",
   "description": "Dataset for flower classifications",
-  "logo": "_images/dataset.png",
+  "logo": "_images/dataset-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "flower_classification_dataset",
   "source_repo": "https://github.com/i-data-explorer/flower-calssification-dataset.git",
